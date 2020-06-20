@@ -35,7 +35,22 @@ Considerations
 ### Averaging
 
 * metrics should be averaged over a suitably short time delta
-* 
+(to be tested and analysed to determine best calculation)
+
+## Trend analysis
+
+Aim to determine how performance has changed over time.
+
+Track changes in metrics over time
+
+### Considerations
+* Weather
+* Training load
+* Hangovers?
+* Lockdown
+* Sleep
+
+
 
 
 
