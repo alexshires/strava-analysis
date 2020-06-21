@@ -3,9 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="21f545f1-40c9-480d-bef3-a65cedf6ef9e" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/convert_gpx.py" beforeDir="false" afterPath="$PROJECT_DIR$/convert_gpx.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/input1.gpx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output1.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Untitled.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/InitalAnalysis.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
